@@ -23,7 +23,7 @@ Learning to code for 2 years. Started the process inspired by Flavio Copes (http
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.stackoverflow.com/users/kojo88" target="_blank" rel="noreferrer">
+                      <a href="https://www.stackoverflow.com/users/21098896/kojo88" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
